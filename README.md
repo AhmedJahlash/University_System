@@ -27,3 +27,7 @@ A Python application for managing university data using SQLite.
 - courses.py : Courses management
 - enrollments.py : Enrollment management
 - reports.py : Reports
+
+## Author
+
+Ahmed Jahlash
